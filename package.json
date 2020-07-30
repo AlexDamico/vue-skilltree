@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "dot-prop": "^5.2.0",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.19",
     "lodash.template": "^4.5.0",
