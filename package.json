@@ -21,7 +21,8 @@
     "vue-property-decorator": "^7.0.0",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1",
-    "webpack-bundle-analyzer": "^3.3.2"
+    "webpack-bundle-analyzer": "^3.3.2",
+    "yargs-parser": "^19.0.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.3.0",
